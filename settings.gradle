@@ -1,0 +1,3 @@
+include ':testedit'
+include ':app'
+rootProject.name = "PMSDemo"
